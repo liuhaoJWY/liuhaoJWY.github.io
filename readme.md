@@ -9,9 +9,9 @@
 
 ## 正在编写的文档
 [ROS2学习笔记](https://gitee.com/how-many-ye/ros2-learning-notes)  
-
+[个人网页网站：https://weiyeji.com （备案中……待备案完成后可访问）](https://weiyeji.com)
 
 ## 联系方式
 GitHub 主页：[@liuhaoJWY](https://liuhaojwy.github.io/)
 - 邮箱：jiweiyecau@163.com
-微信公众号：liuhaoCAU(旒豪)
+- 微信公众号：liuhaoCAU(旒豪)
